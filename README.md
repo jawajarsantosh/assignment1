@@ -1,0 +1,1 @@
+Moderator and Poll classes are created. CRUD operatoions are performed. HTTP Basic Authentication is used.
